@@ -154,3 +154,10 @@ button {
    background: #d0d0d5;
    border: 3px solid #3b3b4f;
 }
+
+footer {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   background-color: #2a2a40;
+}
